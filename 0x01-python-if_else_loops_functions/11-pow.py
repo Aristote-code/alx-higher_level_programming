@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 11-pow.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Gahima Aristote <gahimaaristote1@gmail.com.com>
 
 
 def pow(a, b):

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Gahima Aristote <gahimaaristote1@gmail.com.com>
 
 
 def magic_calculation(a, b, c):

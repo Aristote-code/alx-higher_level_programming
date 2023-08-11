@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-uppercase.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Gahima Aristote <gahimaaristote1@gmail.com.com>
 
 
 def uppercase(str):
